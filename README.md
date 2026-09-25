@@ -1,7 +1,4 @@
 # Poetry-Text-Analysis
-Python text analysis of selected poems by Phillis Wheatley and Paul Laurence Dunbar, exploring poem length and word frequency.
-Poetry Text Analysis
-
 An exploratory Python analysis of ten published poems: five by Phillis Wheatley and five by Paul Laurence Dunbar. The project examines poem length, frequently used words, and whether repeated words appear across poems or are concentrated in one.
 
 Data and tools
